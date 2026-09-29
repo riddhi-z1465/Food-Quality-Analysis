@@ -1,0 +1,6 @@
+Model,CV_Mean_Accuracy,CV_Std_Accuracy,Test_Accuracy,Test_Precision,Test_Recall,Test_F1_Score
+Logistic Regression,0.7868,0.0913,0.6471,0.7132,0.6471,0.6434
+Decision Tree,0.8165,0.135,0.7647,0.8693,0.7647,0.7582
+K-Nearest Neighbors,0.8341,0.1003,0.8824,0.8995,0.8824,0.8723
+Support Vector Machine,0.8791,0.1038,0.8235,0.8497,0.8235,0.8162
+Random Forest,0.8473,0.0982,0.8235,0.8505,0.8235,0.8188

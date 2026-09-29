@@ -1,0 +1,6 @@
+Model,Leakage_Test_Accuracy,Leakage_Test_F1
+Logistic Regression,0.8255,0.8284
+Decision Tree,0.8821,0.8727
+K-Nearest Neighbors,1.0,1.0
+Support Vector Machine,0.9434,0.9433
+Random Forest,0.934,0.932
